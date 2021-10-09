@@ -46,5 +46,7 @@ $("a[href*='1=frontpage']").each((ndx, element) => {
 });
 
 const siteQpIncludes = {
-  "newegg.com": ["Item"]
+  "newegg.com": ["Item"],
+  "amazon.com": ["Item"],
+  "costco.com": ["Item"]
 };
